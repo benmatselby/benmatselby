@@ -26,7 +26,7 @@ jobs:
 
           # Options
           user: benmatselby
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
           plugin_languages: yes
