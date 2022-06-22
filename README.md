@@ -1,4 +1,8 @@
-### Hi there 👋
+# Oh, hi there 👋
+
+<a href="https://github.com/benmatselby">
+<img align="center" width="50%" src="./github-metrics.svg" />
+</a>
 
 <!--
 **benmatselby/benmatselby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
